@@ -1,0 +1,64 @@
+#header {
+	width: auto;
+	background-color: #3c4545;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+#header h1 {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+	color: #acd2d2;
+}
+
+#gallery {
+	margin: 0px auto;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+#gallery table {
+	width: 100%;
+	border: #000000 1px solid;
+	background-color: #acd1b2;
+	margin: 0px auto;
+}
+
+.name {
+	margin: 0px auto;
+	text-align: center;
+}
+
+.space {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.photo {
+	width: 200px;
+	height: 200px;
+}
+
+.photo img {
+	width: 100%;
+	height: auto;
+}
+
+#footer {
+	width: auto;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+#footer h4 {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+}

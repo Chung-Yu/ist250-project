@@ -1,0 +1,46 @@
+#header {
+	width: auto;
+	background-color: #3c4545;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+#header h1 {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+	color: #acd2d2;
+}
+
+#form {
+	margin: 0px auto;
+	padding-left: 100px;
+	padding-right: 100px;
+	font-size: 18px;
+}
+
+#form form {
+	width: 100%;
+	margin: 0px auto;
+	border: black 1px solid;
+	padding: 10px 10px 10px 10px;
+	background-color: #acd1b2;
+}
+
+.submit {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#footer h4 {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+	text-decoration: underline;
+}

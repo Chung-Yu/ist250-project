@@ -1,0 +1,83 @@
+#header {
+	width: auto;
+	background-color: #3c4545;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+#header h1 {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+	color: #acd2d2;
+}
+
+#portrait {
+	width: 300px;
+	height: auto;
+	margin: 0px auto;
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-bottom: 25px;
+}
+
+#portrait img {
+	width: 100%;
+	height: auto;
+}
+
+#main {
+	margin: 0px auto;
+	padding-left: 100px;
+	padding-right: 100px;
+	font-size: 24px;
+}
+
+#introduction {
+	width: 100%;
+	border: black 1px solid;
+	background-color: #acd1b2;
+	margin: 0px auto;
+}
+
+.field {
+	width: 30%;
+	font-weight: bold;
+}
+
+#gallery {
+	margin: 0px auto;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+#gallery table {
+	width: 100%;
+	border: #000000 1px solid;
+	background-color: #acd1b2;
+	margin: 0px auto;
+}
+
+#gallery img {
+	width: 100%;
+	height: auto;
+}
+
+#footer {
+	width: auto;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+#footer h4 {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+	text-decoration: underline;
+}
